@@ -1,6 +1,6 @@
-# Azure圖片描述機器人
+# 剪刀石頭布辨識機器人
 
-歡迎掃描以下條碼，幫你描述圖片內容(使用Azure認知服務)
+歡迎掃描以下條碼，幫你描述圖片是剪刀石頭布的哪一種
 
 
-![](https://qr-official.line.me/sid/L/404bnrvc.png)
+![](https://qr-official.line.me/sid/L/529uzmje.png)
