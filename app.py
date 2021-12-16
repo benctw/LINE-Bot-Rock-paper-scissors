@@ -1,5 +1,5 @@
 # import flask related
-from flask import Flask, request, abort, url_for
+from flask import Flask, request, abort, url_for, render_template
 from urllib.parse import parse_qsl, parse_qs
 from linebot.models import events, messages
 from line_chatbot_api import *
