@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'LINE-Bot-Rock-paper-scissors'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A87CBCD321847EEA7C927A2ACDDC4A4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5F1AD010FC0A4B598A7C46A58B6F4555 }}
